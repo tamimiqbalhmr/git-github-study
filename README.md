@@ -11,7 +11,7 @@
 <li>Branches</li>
 <li>Resgistry</li>
 <li>Tracking</li>
-<li>Commands</li>![Uploading image.png…]()
+<li>Commands</li>
 
 </ul>
 
