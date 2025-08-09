@@ -12,8 +12,9 @@
 <li>Branches</li>
 <li>Resgistry</li>
 <li>Tracking</li>
+<li>Remote</li>
 <li>Commands</li>
-
 </ul>
+
 
 
