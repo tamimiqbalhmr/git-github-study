@@ -1,4 +1,5 @@
-<h1 align="center">Git basic</h1>
+
+<h1 align="center"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b29a8d3d-fd54-413e-be4c-adc963b0b91a" />  Git basic</h1>
 
 <h3 align="left">What is Git?</h3>
 <p>Git is one of the most widely used version control systems that tracks code, facilitates collaboration, and shares application code and files. </p>
